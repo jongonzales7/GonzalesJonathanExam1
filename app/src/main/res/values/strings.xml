@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GonzalesJonathanExam1</string>
+    <string name="note1_title">Study</string>
+    <string name="note1_content">Android, Java, Design Patterns</string>
+    <string name="note2_title">Reminders</string>
+    <string name="note2_content">Feed the dog, eat vegetables, refill water, drink 8 glasses of water, go to Church</string>
+    <string name="note3_title">Swimming</string>
+    <string name="note3_content">Venue: Filinvest 1 Clubhouse, Quezon City</string>
+    <string name="personal">Personal Notes</string>
+    <string name="office">Office Notes</string>
+    <string name="publi">Public Notes</string>
+
+</resources>
